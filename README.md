@@ -1,13 +1,13 @@
 # Home Lab Networking Project
 
+## Overview
+This repository documents the design, setup, and configuration of my home lab. The project is aimed at gaining hands-on IT experience in networking, DNS management, and security using a Raspberry Pi, Pi-hole, and a subnet configuration.
+
 ### Finished Home Lab
 Below is the final setup of my home lab environment.
 
 ![Finished Home Lab](./images/Finished-Home-Lab.JPG)
 
-## Overview
-This repository documents the design, setup, and configuration of my home lab. The project is aimed at gaining hands-on IT experience in networking, 
-DNS management, and security using a Raspberry Pi, Pi-hole, and a subnet configuration.
 
 ## Objectives
 - Create a secure, isolated sub-network for IT experimentation.
