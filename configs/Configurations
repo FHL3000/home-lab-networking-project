@@ -1,0 +1,7 @@
+# Configurations Folder
+
+This folder contains configuration files for the home lab project, such as: 
+- Router and DHCP settings
+- Firewall rules
+- Pi-hole configuration
+- Raspberry Pi setup files
