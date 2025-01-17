@@ -1,0 +1,13 @@
+Router Model: Asus RT-AX3000
+LAN IP Address:10.0.0.1
+SubneT Mask: 255.255.255.0
+DHCP Range: 10.0.0.50 - 10.0.0.200
+Reserved IPs:
+- Raspberry Pi: 10.0.0.2
+- Laptop: 10.0.0.10
+Firewall: Enabled
+DNS Settings:
+Google DNS:
+- Primary: 8.8.8.8 (Google)
+- Secondary: 1.1.1.1 (Cloudfare)
+
