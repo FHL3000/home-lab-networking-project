@@ -34,7 +34,8 @@ Below is a visual representation of the network setup.
 ## Ethernet Layout Blueprint
 Below is the basic blueprint of the Ethernet cable routing throughout the home.
 
-![Ethernet Layout Blueprint](./images/Basic-Blueprint-Ethernet-Layout.jpg)
+![Ethernet Layout Blueprint](./images/Basic-Blueprint-Ethernet-Layout.png) 
+
 
 ## Logs
 - [Ping Test Results](./logs/ping-test-results.log)
