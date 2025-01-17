@@ -111,7 +111,7 @@ Below are images and a video showcasing various stages of the project. For addit
 
 ### Final Home Lab Setup
 8. **Completed Home Lab Tour (Video)**  
-   ![Finished Home Lab](/Finished-Home-Lab.JPG)
+   ![Finished Home Lab](./Finished-Home-Lab.JPG)
 
 
 For more detailed visuals, check out the [images/](./images/) folder.
