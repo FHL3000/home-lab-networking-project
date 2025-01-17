@@ -70,7 +70,7 @@ Throughout the project, I encountered several challenges that required creative 
 
 ### Challenge 4: Accessing the Router’s Web Interface
 - **Problem**: Could not access the router's web interface using `router.asus.com`.
-- **Solution**: Used the router's IP address (`10.0.0.1`) instead of the domain to access the web interface and documented the issue for future reference.
+- **Solution**: Proper DNS configuration resolved DNS resolution issues.
 
 ## Skills Gained
 - Subnetting and IP management.
