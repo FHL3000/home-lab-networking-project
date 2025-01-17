@@ -1,0 +1,7 @@
+# Logs Folder
+
+This folder contains network troubleshooting and configuration logs, such as:
+- Ping test results
+- DNS query logs
+- Traceroute logs
+- Packet loss analysis
