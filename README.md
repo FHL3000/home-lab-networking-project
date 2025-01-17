@@ -1,5 +1,10 @@
 # Home Lab Networking Project
 
+### Finished Home Lab
+Below is the final setup of my home lab environment.
+
+![Finished Home Lab](./images/Finished-Home-Lab.JPG)
+
 ## Overview
 This repository documents the design, setup, and configuration of my home lab. The project is aimed at gaining hands-on IT experience in networking, 
 DNS management, and security using a Raspberry Pi, Pi-hole, and a subnet configuration.
@@ -108,10 +113,6 @@ Below are images and a video showcasing various stages of the project. For addit
 
 7. **Resolved DNS Loop Issue**  
    ![DNS Loop Resolved](./images/DNS-Loop-Resolved.JPG)
-
-### Final Home Lab Setup
-8. **Completed Home Lab Tour (Video)**  
-   ![Finished Home Lab](./Finished-Home-Lab.JPG)
 
 
 For more detailed visuals, check out the [images/](./images/) folder.
