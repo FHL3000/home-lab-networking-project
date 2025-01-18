@@ -49,7 +49,8 @@ Below is the basic blueprint of the Ethernet cable routing throughout the home.
 
 ## Configurations
 - [Router Configuration](./configs/router-config.txt)
-- [DHCP Settings](./configs/DHCPSettings)
+- [DHCP Settings](./home-lab-networking-project/configs
+/DHCP Settings)
 - [Firewall Rules](./configs/ufw-rules.txt)
 - [Pi-hole Blocklist](./configs/pihole-blocklist.txt)
 
