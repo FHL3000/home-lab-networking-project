@@ -23,7 +23,7 @@ Below is the final setup of my home lab environment.
 - VGA to Micro HDMI Adapter
 - 100 ft Flat Ethernet Cat6 Cable & Patch cables
 - Ethernet Wall Plate(s)
-- Back-UPS999
+- Back-UPS
 
 ## Configurations
 - **Subnet**: 10.0.0.0/24
