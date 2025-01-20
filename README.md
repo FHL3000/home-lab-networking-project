@@ -1,7 +1,8 @@
 # Home Lab Networking Project
 
 ## Overview
-This repository documents the design, setup, and configuration of my home lab. The project is aimed at gaining hands-on IT experience in networking, DNS management, and security using a Raspberry Pi, Pi-hole, and a subnet configuration.
+This repository documents my home lab project, created to develop practical IT support skills in troubleshooting, system administration, network monitoring, and end-user support. The project leverages a Raspberry Pi, Pi-hole, and custom subnet configurations to simulate real-world IT environments and challenges. This project serves as a hands-on learning experience, demonstrating proficiency in core IT support functions, including problem-solving, system maintenance, and delivering effective support solutions.
+
 
 ### Finished Home Lab
 Below is the final setup of my home lab environment.
@@ -73,10 +74,10 @@ Throughout the project, I encountered several challenges that required creative 
 - **Solution**: Proper DNS configuration resolved DNS resolution issues.
 
 ## Skills Gained
-- Subnetting and IP management.
-- Configuring DHCP, DNS, and firewalls.
-- Hands-on experience with Pi-hole and Raspberry Pi.
-- Network troubleshooting and performance optimization.
+- Troubleshooting and Diagnostics: Identified and resolved issues related to network connectivity, DNS queries, and system performance, replicating common IT support scenarios.
+- System Administration: Configured and maintained a Raspberry Pi as a dedicated DNS server with Pi-hole, including regular updates, backups, and performance tuning.
+- Network Monitoring: Monitored network traffic and analyzed DNS queries to identify potential issues, optimize performance, and enhance system reliability.
+- Simulated common IT support task, such as diagnosing network connectivity issues, resolving DNS-related problems, and improving system performance
 
 ## Future Plans
 - Implement VLANs for additional network segmentation.
